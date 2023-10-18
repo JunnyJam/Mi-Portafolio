@@ -1,10 +1,13 @@
 ## Portafolio personal: Techonolochicas PRO
-
 Este proyecto fue creado durante el bootacamp Technolochicas PRO, es una página web responsiva (adptable a diversos dispositivos).
 
+<a href="https://sage-biscuit-2ea8cd.netlify.app/" target="_blank">**Visitalo ahora** 🚀</a>
+
+# ¿Qué construí?
 El propósito de la creación de este sitio web es mostrar el portafolio de proyectos de la desarrolladora y la experiencia alrededor del área.
 
-<a href="https://sage-biscuit-2ea8cd.netlify.app/" target="_blank">**Visitalo ahora** 🚀</a>
+## Objetivos
+Práctica de HTML, CSS y JS. 
 
 # Secciones
 Sobre mí:
@@ -27,8 +30,9 @@ Testimonios:
 
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 📬 Contacto
+Además, se incluyeron Google Fonts para personalizar la fuente, Bootstrap icons y Flaticon icons para incorporar íconos como logos e imagenes de redes sociales populares.
 
+## 📬 Contacto
 Si estás interesad@ en compartir o conectar para algún proyecto u oportunidad laboral, contáctame.
 
 <a href="https://www.linkedin.com/in/marina-gonzalez-p17/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
